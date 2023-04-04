@@ -5,13 +5,19 @@ This is a simple car racing game implemented in C++ using Object Oriented Progra
 ![Screenshot](https://github.com/Rudraksh2003/cargame/blob/main/02.png?raw=true)
 ![Screenshot](https://github.com/Rudraksh2003/cargame/blob/main/03.png?raw=true)
 ![Screenshot](https://github.com/Rudraksh2003/cargame/blob/main/04.png?raw=true)
+![Screenshot](https://github.com/Rudraksh2003/cargame/blob/main/05.png?raw=true)
+![Screenshot](https://github.com/Rudraksh2003/cargame/blob/main/06.png?raw=true)
 
 # description 
-when we start a
+when we start a game we show the option in game 
+   1.Start Game
+   2.Instruction
+   3.Quit
+   
+ when we choose 1 then game interface is open and sgowing to click any button to play the game
 
- there are three floors numbered 1,2 and 3 each of which has ten rooms  
 
- hotel is famous for food and services
+ hotel i
 
 
  Staff should be able to obtain details of  rooms & food and total cost in a variety of ways. The user must be able to request information for the following reports:
