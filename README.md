@@ -15,14 +15,12 @@ This is a simple car racing game implemented in C++ using Object Oriented Progra
    3.Quit
    
  when we choose 1 then game interface is open and sgowing to click any button to play the game
+   > press "a" to move left
+   > press "d" to move right
+   > press "escape" for exit
 
 
- hotel i
+ in this game we  control a car and race against opposite cars/obstacle.
 
-
- Staff should be able to obtain details of  rooms & food and total cost in a variety of ways. The user must be able to request information for the following reports:
-
- it provide total earning of the day.
-
- display the booking details of a  room which includes the people staying in the room,
-the food & beverages available or out of stock.
+# Linkedin
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudraksh-laddha-427b301a5/)
