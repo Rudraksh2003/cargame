@@ -6,7 +6,7 @@ This is a simple car racing game implemented in C++ using Object Oriented Progra
 ![Screenshot](https://github.com/Rudraksh2003/cargame/blob/main/03.png?raw=true)
 ![Screenshot](https://github.com/Rudraksh2003/cargame/blob/main/04.png?raw=true)
 ![Screenshot](https://github.com/Rudraksh2003/cargame/blob/main/05.png?raw=true)
-![Screenshot](https://github.com/Rudraksh2003/cargame/blob/main/06.png?raw=true)
+
 
 # description 
 when we start a game we show the option in game 
